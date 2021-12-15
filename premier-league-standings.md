@@ -6,7 +6,7 @@
 4. Arsenal
 5. West Ham
 6. Manchester United
-7. Tottenham
+7. Spurs
 8. Wolverhampton
 9. Leicester
 10. Aston Villa
