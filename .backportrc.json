@@ -1,0 +1,6 @@
+{
+  "upstream": "backport-org/repo-with-conflicts",
+  "targetBranchChoices": [
+    "7.x"
+  ]
+}
