@@ -8,15 +8,16 @@
 6. Rayo Vallecano
 7. Valencia
 8. Barcelona
-9. Espanyol
-10. Osasuna
-11. Athletic Club
-12. Mallorca
-13. Villarreal
-14. Celta Vigo
-15. Granada
-16. Elche
-17. Alaves
-18. Cadiz
-19. Getafe
-20. Levante
+9. 🇩🇰🇩🇰 Team Braithwaite 🇩🇰🇩🇰
+10. Espanyol
+11. Osasuna
+12. Athletic Club
+13. Mallorca
+14. Villarreal
+15. Celta Vigo
+16. Granada
+17. Elche
+18. Alaves
+19. Cadiz
+20. Getafe
+21. Levante
