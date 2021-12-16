@@ -7,7 +7,7 @@
 5. Real Sociedad
 6. Rayo Vallecano
 7. Valencia
-8. Barcelona
+8. Team Braithwaite
 9. Espanyol
 10. Osasuna
 11. Athletic Club
