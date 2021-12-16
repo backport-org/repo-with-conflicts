@@ -7,7 +7,11 @@
 5. Real Sociedad
 6. Rayo Vallecano
 7. Valencia
+<<<<<<< HEAD
 8. Barcelona
+=======
+8. 🇩🇰🇩🇰 Team Braithwaite 🇩🇰🇩🇰
+>>>>>>> 3a0934d (Add 🇩🇰 (#12))
 9. Espanyol
 10. Osasuna
 11. Athletic Club
