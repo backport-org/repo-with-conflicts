@@ -3,5 +3,8 @@
   "targetBranchChoices": [
     "7.x"
   ],
-  "fork": false
+  "fork": false,
+  "branchLabelMapping": {
+    "^backport-to-(.*)$": "$1"
+  },  
 }
