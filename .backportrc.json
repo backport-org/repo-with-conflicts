@@ -6,5 +6,5 @@
   "fork": false,
   "branchLabelMapping": {
     "^backport-to-(.*)$": "$1"
-  },  
+  }
 }
